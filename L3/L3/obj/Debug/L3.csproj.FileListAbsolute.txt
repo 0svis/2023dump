@@ -1,0 +1,27 @@
+E:\UniStuff\IISemestras\CSharp\L3\L3\L3\obj\Debug\L3.csproj.AssemblyReference.cache
+E:\UniStuff\IISemestras\CSharp\L3\L3\L3\obj\Debug\L3.csproj.SuggestedBindingRedirects.cache
+E:\UniStuff\IISemestras\CSharp\L3\L3\L3\obj\Debug\L3.Properties.Resources.resources
+E:\UniStuff\IISemestras\CSharp\L3\L3\L3\obj\Debug\L3.csproj.GenerateResource.cache
+E:\UniStuff\IISemestras\CSharp\L3\L3\L3\obj\Debug\L3.csproj.CoreCompileInputs.cache
+C:\Users\Osvaldas Žilinskas\Downloads\OPPlab3\OPPlab3\L3\L3\L3\bin\Debug\L3.exe.config
+C:\Users\Osvaldas Žilinskas\Downloads\OPPlab3\OPPlab3\L3\L3\L3\bin\Debug\L3.exe
+C:\Users\Osvaldas Žilinskas\Downloads\OPPlab3\OPPlab3\L3\L3\L3\bin\Debug\L3.pdb
+C:\Users\Osvaldas Žilinskas\Downloads\OPPlab3\OPPlab3\L3\L3\L3\obj\Debug\L3.csproj.AssemblyReference.cache
+C:\Users\Osvaldas Žilinskas\Downloads\OPPlab3\OPPlab3\L3\L3\L3\obj\Debug\L3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Osvaldas Žilinskas\Downloads\OPPlab3\OPPlab3\L3\L3\L3\obj\Debug\L3.Properties.Resources.resources
+C:\Users\Osvaldas Žilinskas\Downloads\OPPlab3\OPPlab3\L3\L3\L3\obj\Debug\L3.csproj.GenerateResource.cache
+C:\Users\Osvaldas Žilinskas\Downloads\OPPlab3\OPPlab3\L3\L3\L3\obj\Debug\L3.csproj.CoreCompileInputs.cache
+C:\Users\Osvaldas Žilinskas\Downloads\OPPlab3\OPPlab3\L3\L3\L3\obj\Debug\L3.exe
+C:\Users\Osvaldas Žilinskas\Downloads\OPPlab3\OPPlab3\L3\L3\L3\obj\Debug\L3.pdb
+C:\Users\Osvaldas Žilinskas\Downloads\OPPlab3\OPPlab3\L3\L3\L3\obj\Debug\L3.Lab3.resources
+C:\Users\Osvaldas Žilinskas\OneDrive - Kaunas University of Technology\OPP2\OPPlab3\OPPlab3\L3\L3\L3\bin\Debug\L3.exe.config
+C:\Users\Osvaldas Žilinskas\OneDrive - Kaunas University of Technology\OPP2\OPPlab3\OPPlab3\L3\L3\L3\bin\Debug\L3.exe
+C:\Users\Osvaldas Žilinskas\OneDrive - Kaunas University of Technology\OPP2\OPPlab3\OPPlab3\L3\L3\L3\bin\Debug\L3.pdb
+C:\Users\Osvaldas Žilinskas\OneDrive - Kaunas University of Technology\OPP2\OPPlab3\OPPlab3\L3\L3\L3\obj\Debug\L3.csproj.AssemblyReference.cache
+C:\Users\Osvaldas Žilinskas\OneDrive - Kaunas University of Technology\OPP2\OPPlab3\OPPlab3\L3\L3\L3\obj\Debug\L3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Osvaldas Žilinskas\OneDrive - Kaunas University of Technology\OPP2\OPPlab3\OPPlab3\L3\L3\L3\obj\Debug\L3.Lab3.resources
+C:\Users\Osvaldas Žilinskas\OneDrive - Kaunas University of Technology\OPP2\OPPlab3\OPPlab3\L3\L3\L3\obj\Debug\L3.Properties.Resources.resources
+C:\Users\Osvaldas Žilinskas\OneDrive - Kaunas University of Technology\OPP2\OPPlab3\OPPlab3\L3\L3\L3\obj\Debug\L3.csproj.GenerateResource.cache
+C:\Users\Osvaldas Žilinskas\OneDrive - Kaunas University of Technology\OPP2\OPPlab3\OPPlab3\L3\L3\L3\obj\Debug\L3.csproj.CoreCompileInputs.cache
+C:\Users\Osvaldas Žilinskas\OneDrive - Kaunas University of Technology\OPP2\OPPlab3\OPPlab3\L3\L3\L3\obj\Debug\L3.exe
+C:\Users\Osvaldas Žilinskas\OneDrive - Kaunas University of Technology\OPP2\OPPlab3\OPPlab3\L3\L3\L3\obj\Debug\L3.pdb

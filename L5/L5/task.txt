@@ -1,0 +1,15 @@
+﻿L5_5. Colored dots.
+In a rectangular coordinate plane, there are n (1 ≤ n ≤ 100) colored dots. 
+By connecting the dots in groups of three, it is possible to form many triangles. 
+The colors for which triangle formation is allowed are known. Create a program that, for each color, if possible, 
+finds three dots that can be connected to form the largest equilateral triangles. 
+Calculate the perimeters of the obtained triangles. Print the color name, coordinates, perimeter, or the word "nėra" (not available) or the word "negalima" (not possible).
+
+Data:
+• The text file U5a.txt contains data about the dots. 
+The first line of the text file contains the number n. 
+Following that, the colors and coordinates (x; y - integers) (-100 ≤ x, y ≤ 100) of n dots are listed line by line. 
+The color name can consist of two words.
+• The text file U5b.txt contains a list of colors and instructions. 
+The colors are listed in a column, and next to each color name, there is the word "taip" (yes) if it is allowed, 
+or the word "ne" (no) if it is not allowed.

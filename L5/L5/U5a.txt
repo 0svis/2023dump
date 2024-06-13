@@ -1,0 +1,13 @@
+﻿12
+Blue;10;10;
+Blue;8;19;
+Blue;10;20;
+Red;2;1;
+Red;4;96;
+Red;5;1;
+Yellow;1;9;
+Yellow;-7;7;
+Yellow;-5;9;
+Green;-9;9;
+Green;-7;1;
+Green;-4;10;

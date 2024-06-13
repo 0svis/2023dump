@@ -1,0 +1,26 @@
+﻿This program is designed to compile and create a common question database and to perform assigned tasks (see task). 
+The program's data is recorded in selected text files, such as "SA1.txt" and "SA2.txt". The first line of the file contains the name of the student council. 
+This is followed by data about the questions posed by the student council, including the topic, difficulty, author of the question, question text,
+correct answer number, question rating, number of words in the question, number of possible answer options, file name, and file size.
+
+The program is controlled through a graphical user interface. The program does not work until the "Input" button (located in the "File" menu) is
+clicked and two data files are selected, as well as the "Print" button (also located in the "File" menu) to select the results file in which the results
+data will be printed. After these actions have been completed, you can choose from the following actions, which perform calculations. 
+These options are located in the "Actions" menu and in the lower part of the program, if specific parameters need to be entered to execute the query.
+
+In the "Actions" menu, you can find:
+
+"Find author with most questions": This button finds the person who created the most musical questions in each student council. The answer is printed in the text field.
+"Sort by themes and grades": This button allows you to sort the list of questions compiled according to the specified difficulty,
+including test and music questions whose answer number is entered on the keyboard.
+The lower part of the program is divided into two parts, each of which performs different actions:
+
+The left part allows you to compile a list of test questions for each student council by entering the desired theme (entered in the text 
+field labeled "Enter desired theme") and the desired number of answer options (entered in the text field labeled "Enter a digit for desired 
+amount of answer options") and clicking the "Form each association list" button.
+The right part allows you to compile a list of questions of a specified difficulty level (entered as an integer in the text field labeled 
+"Enter a desired question difficulty"), including test and music questions whose answer number is N (entered as an integer in the text 
+field labeled "Enter a desired question answer number"). After clicking the "Do" button, a list is compiled and full information is provided.
+To close the program, click the "End" button located in the "File" menu.
+To see the task text for which the program was created, click the "Task" button in the "Help" menu.
+To view the program's user guide, click the "Instructions for user" button in the "Help" menu.

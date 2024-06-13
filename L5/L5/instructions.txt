@@ -1,0 +1,5 @@
+﻿When starting to work with the program, it is necessary to click the button labeled 
+"Read Input Files" in the "Program" menu tab. This will read all the data files and display them on the screen. 
+To find the largest possible equilateral triangles, click the button "Find Largest Equilateral Triangles" in the "Actions" menu tab. 
+To access the text of the laboratory task, click the button "Task" in the "Help" menu tab. 
+The user manual for the program can also be found there by clicking the "User instructions" button in the "Help" menu tab.

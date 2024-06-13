@@ -1,0 +1,64 @@
+Cars of leasing companies
+uwu Leasing Company
+----------------------------------------------
+      Car model name      Passengers L/100km 
+----------------------------------------------
+Opel A5                   6               6
+Opel A4                   8               5
+Opel A3                   1               4
+----------------------------------------------
+
+
+senpai Leasing Company
+----------------------------------------------
+      Car model name      Passengers L/100km 
+----------------------------------------------
+Mitsubishi Vienas         5               5
+Mitsubishi Du             5              50
+Mitsubishi Trys           7               1
+----------------------------------------------
+
+
+uwu Leasing Company company's most economical car
+----------------------------------------------
+      Car model name      Passengers L/100km 
+----------------------------------------------
+Opel A3                   1               4
+----------------------------------------------
+
+
+senpai Leasing Company company's most economical car
+----------------------------------------------
+      Car model name      Passengers L/100km 
+----------------------------------------------
+Mitsubishi Trys           7               1
+----------------------------------------------
+
+
+Biggest car is: Opel A4 and it has space for 8 passengers
+
+Cars list that uses less fuel than largest car
+
+----------------------------------------------
+      Car model name      Passengers L/100km 
+----------------------------------------------
+Opel A3                   1               4
+Mitsubishi Trys           7               1
+----------------------------------------------
+
+Car list with removed cars that fuel consumption exceeds entered fuel consumption
+
+----------------------------------------------
+      Car model name      Passengers L/100km 
+----------------------------------------------
+Mitsubishi Trys           7               1
+----------------------------------------------
+
+Sorted list of cars in decreasing order
+
+----------------------------------------------
+      Car model name      Passengers L/100km 
+----------------------------------------------
+Mitsubishi Trys           7               1
+----------------------------------------------
+

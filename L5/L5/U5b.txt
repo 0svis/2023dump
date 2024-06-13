@@ -1,0 +1,4 @@
+﻿Blue;No
+Red;Yes
+Green;Yes
+Yellow;Yes

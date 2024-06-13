@@ -1,0 +1,9 @@
+﻿U4-5
+A student is analyzing the suitability of cars for trips. The first line of the file contains the company name. 
+Then there is data about the cars: brand, number of passengers that can fit in the car, and the amount of fuel consumed per 100 km. 
+We have data for two companies that organize trips.
+
+Find the most economical car for each company (consumes the least amount of fuel) and the maximum number of passengers that can fit in the largest car.
+Compile a separate set of data for all cars from both companies that consume no more than the most fuel-efficient car per 100 km.
+Sort the list of results in descending order of the number of passengers.
+Remove from the list of results cars whose fuel consumption per 100 km is greater than the one specified on the keyboard.

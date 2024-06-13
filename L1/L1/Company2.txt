@@ -1,0 +1,4 @@
+﻿ara Car Leasing Company
+Citroen C5 Aircorss Plug-in Hybrid; 5; 1.5;
+Citroen DS5 Hybrid4; 6; 3.4;
+Ford Focus; 3; 5.0;

@@ -1,0 +1,4 @@
+﻿senpai Leasing Company
+Mitsubishi Vienas; 5; 5;
+Mitsubishi Du; 5; 50;
+Mitsubishi Trys; 7; 1;

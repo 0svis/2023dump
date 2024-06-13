@@ -1,0 +1,40 @@
+Least fuel consuming car of ''uwu Leasing Company'' company:              Audi A3, 4, 4l/100km
+
+Least fuel consuming car of ''ara Car Leasing Company'' company:               VW One, 1, 1l/100km
+
+
+Biggest car of ''uwu Leasing Company'' company:              Audi A5, 6, 6l/100km
+
+Biggest car of ''ara Car Leasing Company'' company:              VW Four, 4, 4l/100km
+
+
+First company cars
+--------------------------------------------------------------------------------------------
+   Model   Passenger amount  Fuel consumption (l/100km) 
+--------------------------------------------------------------------------------------------
+             Audi A3, 4, 4l/100km
+             Audi A4, 5, 5l/100km
+             Audi A5, 6, 6l/100km
+--------------------------------------------------------------------------------------------
+
+Second company cars
+--------------------------------------------------------------------------------------------
+   Model   Passenger amount  Fuel consumption (l/100km) 
+--------------------------------------------------------------------------------------------
+              VW One, 1, 1l/100km
+              VW Two, 2, 2l/100km
+            VW Three, 3, 3l/100km
+             VW Four, 4, 4l/100km
+--------------------------------------------------------------------------------------------
+
+Both companies cars that has lower fuel consumption than biggest car
+--------------------------------------------------------------------------------------------
+   Model   Passenger amount  Fuel consumption (l/100km) 
+--------------------------------------------------------------------------------------------
+             Audi A3, 4, 4l/100km
+             VW Four, 4, 4l/100km
+            VW Three, 3, 3l/100km
+              VW Two, 2, 2l/100km
+              VW One, 1, 1l/100km
+--------------------------------------------------------------------------------------------
+

@@ -1,0 +1,16 @@
+﻿U3-5. Battle of the minds. The two student councils organizing the battle of the minds have decided to unite and create a shared question bank. 
+The first line contains the name of the student council, followed by the questions (open-ended, multiple choice, or music-related) 
+which include a feature, topic, difficulty level, author, question text, word count, number of answer choices, correct answer number, file name, 
+file size, and points.
+
+The battle of the minds questions can be open-ended, multiple choice with possible answer choices, or music-related. 
+Create a class called "Question" (with properties such as topic (history, literature, etc.), difficulty level (1, 2, ..., 5),
+author, question text, correct answer number, and points), which will be inherited by the "OpenQuestion" class (with the property of word count), 
+"TestQuestion" class (with the property of number of answer choices), and "MusicQuestion" class (with properties such as file name and file size).
+
+Tasks:
+
+Find out who created the most music-related questions in each student council. Provide the name(s) of the author(s) and the number of questions.
+Create a list of multiple choice questions for each student council by topic and number of answer choices.
+Create a list of questions with a specified difficulty level N, including multiple choice and music-related questions, 
+and provide complete information about them. The size of N is specified by the keyboard. Sort the list by topic and points."

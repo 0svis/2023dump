@@ -1,0 +1,7 @@
+﻿VFSA
+M; Kultūra; 2; Name1; good question?; 1; 4;good question; 6;
+T; Biologija; 2; Name2; good question...?; 1; 2; 1; 
+T; Istorija; 1; Name1; good question?; 2; 2; 2;
+T; Biologija; 3; Name3; good question?; 1; 2; 3;
+O; Istorija; 4; Name3; good question?; 1; 1; 1;
+T; Istorija; 2; Name3; good question; 1; 1; 1;

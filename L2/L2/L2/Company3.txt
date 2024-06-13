@@ -1,0 +1,4 @@
+﻿senpai Leasing Company
+Opel One; 1; 5;
+Opel Alpha; 5; 10;
+Opel BetaLan; 4; 5;

@@ -1,0 +1,21 @@
+﻿This program is designed to find the most suitable car for a trip (see task).
+The data for the program is written in selected text files, for example: 
+"Company1.txt" and "Company2.txt". The first line of the file is the company name. 
+Next are the data about the cars: the brand, the number of passengers that fit in the car, the amount of space in the car, and the amount of fuel consumed for 100 km. 
+We have the data of two companies that organize trips with cars.
+ 
+The program is controlled by a graphical interface. 
+The program does not work until the "Input files" button (which is in the "Program" menu) is clicked and two data files are selected, 
+and the "Output file" button (which is in the "Program" menu) is clicked and a result file is selected to which the result data will be printed. 
+After these actions, the following actions can be selected, which are in the "Actions" menu.
+In the "Actions" menu, you can find the following actions:
+By clicking on the "Most Economical Cars" button, you can find the most economical car of each company.
+By clicking on the "Biggest cars" button, you can find the car of each company that can accommodate the most passengers.
+By clicking on the "Form a new list from cars that uses less fuel than biggest car" button, you can find all cars of both companies 
+that consume no more than 100km of fuel per biggest car and list them separately.
+By clicking on the "Sort" button, you can sort the newly created list by the number of passengers, in descending order.
+By entering a number (fuel consumption, 100 km) on the keyboard and clicking the "Remove cars that exceed entered fuel consumption" button, 
+you can remove all cars in the newly created list whose fuel consumption exceeds this number.
+In the "Help" menu, you can find the following actions:
+By clicking on the "Task" button, you can find the entire task text in English.
+By clicking on the "Instructions for user" button, you can find the complete user instruction.

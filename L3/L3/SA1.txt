@@ -1,0 +1,8 @@
+﻿RandomSA
+M; Technology; 3; Name5; better question; 1; 3;Nokia tune; 5;
+O; Technology; 3; Name2; better question; 2; 3; 3;
+T; Geography; 3; Name5; better question; 1; 1; 1;
+O; Literature; 1; Name3; better question; 1; 1; 2; 
+T; History; 2; Name4; better question; 2; 2; 2;
+T; Istorija; 2; Name4; better question; 1; 1; 1;
+T; History; 2; Name5; better question;1; 1; 2;

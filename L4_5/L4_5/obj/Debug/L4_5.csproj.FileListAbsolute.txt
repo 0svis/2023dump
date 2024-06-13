@@ -1,0 +1,11 @@
+C:\Users\Osvaldas\Desktop\LAB4_LASTRY\L4_5\L4_5\bin\Debug\L4_5.exe.config
+C:\Users\Osvaldas\Desktop\LAB4_LASTRY\L4_5\L4_5\bin\Debug\L4_5.exe
+C:\Users\Osvaldas\Desktop\LAB4_LASTRY\L4_5\L4_5\bin\Debug\L4_5.pdb
+C:\Users\Osvaldas\Desktop\LAB4_LASTRY\L4_5\L4_5\obj\Debug\L4_5.csproj.AssemblyReference.cache
+C:\Users\Osvaldas\Desktop\LAB4_LASTRY\L4_5\L4_5\obj\Debug\L4_5.csproj.SuggestedBindingRedirects.cache
+C:\Users\Osvaldas\Desktop\LAB4_LASTRY\L4_5\L4_5\obj\Debug\L4_5.Form1.resources
+C:\Users\Osvaldas\Desktop\LAB4_LASTRY\L4_5\L4_5\obj\Debug\L4_5.Properties.Resources.resources
+C:\Users\Osvaldas\Desktop\LAB4_LASTRY\L4_5\L4_5\obj\Debug\L4_5.csproj.GenerateResource.cache
+C:\Users\Osvaldas\Desktop\LAB4_LASTRY\L4_5\L4_5\obj\Debug\L4_5.csproj.CoreCompileInputs.cache
+C:\Users\Osvaldas\Desktop\LAB4_LASTRY\L4_5\L4_5\obj\Debug\L4_5.exe
+C:\Users\Osvaldas\Desktop\LAB4_LASTRY\L4_5\L4_5\obj\Debug\L4_5.pdb

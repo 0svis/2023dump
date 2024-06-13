@@ -1,0 +1,77 @@
+Company name: uwu Leasing Company
+First company cars:
+--------------------------------------------------------------------------------------------
+   Model   Passenger amount  Fuel consumption (l/100km) 
+--------------------------------------------------------------------------------------------
+             Audi A3, 4, 4l/100km
+             Audi A4, 5, 5l/100km
+             Audi A5, 6, 6l/100km
+--------------------------------------------------------------------------------------------
+
+Company name: ara Car Leasing Company
+Second company cars:
+--------------------------------------------------------------------------------------------
+   Model   Passenger amount  Fuel consumption (l/100km) 
+--------------------------------------------------------------------------------------------
+              VW One, 1, 1l/100km
+              VW Two, 2, 2l/100km
+            VW Three, 3, 3l/100km
+             VW Four, 4, 4l/100km
+--------------------------------------------------------------------------------------------
+
+Least fuel consuming car of ''uwu Leasing Company'' company:              Audi A3, 4, 4l/100km
+
+Least fuel consuming car of ''ara Car Leasing Company'' company:               VW One, 1, 1l/100km
+
+
+Biggest car of ''uwu Leasing Company'' company:              Audi A5, 6, 6l/100km
+
+Biggest car of ''ara Car Leasing Company'' company:              VW Four, 4, 4l/100km
+
+
+
+Cars whose fuel consumption is lower than biggest car overall
+--------------------------------------------------------------------------------------------
+   Model   Passenger amount  Fuel consumption (l/100km) 
+--------------------------------------------------------------------------------------------
+             Audi A3, 4, 4l/100km
+             Audi A4, 5, 5l/100km
+              VW One, 1, 1l/100km
+              VW Two, 2, 2l/100km
+            VW Three, 3, 3l/100km
+             VW Four, 4, 4l/100km
+--------------------------------------------------------------------------------------------
+
+Sorted List
+--------------------------------------------------------------------------------------------
+   Model   Passenger amount  Fuel consumption (l/100km) 
+--------------------------------------------------------------------------------------------
+             Audi A4, 5, 5l/100km
+             Audi A3, 4, 4l/100km
+             VW Four, 4, 4l/100km
+            VW Three, 3, 3l/100km
+              VW Two, 2, 2l/100km
+              VW One, 1, 1l/100km
+--------------------------------------------------------------------------------------------
+
+Cars that doesn't exceed entered fuel consumption
+--------------------------------------------------------------------------------------------
+   Model   Passenger amount  Fuel consumption (l/100km) 
+--------------------------------------------------------------------------------------------
+            VW Three, 3, 3l/100km
+              VW Two, 2, 2l/100km
+              VW One, 1, 1l/100km
+--------------------------------------------------------------------------------------------
+
+Sorted results list + third company added to sorted list
+--------------------------------------------------------------------------------------------
+   Model   Passenger amount  Fuel consumption (l/100km) 
+--------------------------------------------------------------------------------------------
+     Mitsubishi Trys, 7, 1l/100km
+       Mitsubishi Du, 5, 50l/100km
+   Mitsubishi Vienas, 5, 5l/100km
+            VW Three, 3, 3l/100km
+              VW Two, 2, 2l/100km
+              VW One, 1, 1l/100km
+--------------------------------------------------------------------------------------------
+

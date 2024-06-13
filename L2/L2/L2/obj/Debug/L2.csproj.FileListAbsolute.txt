@@ -1,0 +1,11 @@
+E:\UniStuff\IISemestras\CSharp\L2\L2\L2\bin\Debug\L2.exe.config
+E:\UniStuff\IISemestras\CSharp\L2\L2\L2\bin\Debug\L2.exe
+E:\UniStuff\IISemestras\CSharp\L2\L2\L2\bin\Debug\L2.pdb
+E:\UniStuff\IISemestras\CSharp\L2\L2\L2\obj\Debug\L2.csproj.AssemblyReference.cache
+E:\UniStuff\IISemestras\CSharp\L2\L2\L2\obj\Debug\L2.csproj.SuggestedBindingRedirects.cache
+E:\UniStuff\IISemestras\CSharp\L2\L2\L2\obj\Debug\L2.Form1.resources
+E:\UniStuff\IISemestras\CSharp\L2\L2\L2\obj\Debug\L2.Properties.Resources.resources
+E:\UniStuff\IISemestras\CSharp\L2\L2\L2\obj\Debug\L2.csproj.GenerateResource.cache
+E:\UniStuff\IISemestras\CSharp\L2\L2\L2\obj\Debug\L2.csproj.CoreCompileInputs.cache
+E:\UniStuff\IISemestras\CSharp\L2\L2\L2\obj\Debug\L2.exe
+E:\UniStuff\IISemestras\CSharp\L2\L2\L2\obj\Debug\L2.pdb

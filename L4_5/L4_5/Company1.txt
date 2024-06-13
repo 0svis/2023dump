@@ -1,0 +1,4 @@
+﻿uwu Leasing Company
+Opel A3; 1; 4.0;
+Opel A4; 8; 5.0;
+Opel A5; 6; 6.0;

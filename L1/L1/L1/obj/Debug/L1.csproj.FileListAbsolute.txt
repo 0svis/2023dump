@@ -1,0 +1,33 @@
+E:\UniStuff\IISemestras\CSharp\L1\L1\L1\obj\Debug\L1.csproj.AssemblyReference.cache
+E:\UniStuff\IISemestras\CSharp\L1\L1\L1\obj\Debug\L1.csproj.SuggestedBindingRedirects.cache
+E:\UniStuff\IISemestras\CSharp\L1\L1\L1\obj\Debug\L1.Properties.Resources.resources
+E:\UniStuff\IISemestras\CSharp\L1\L1\L1\obj\Debug\L1.csproj.GenerateResource.cache
+E:\UniStuff\IISemestras\CSharp\L1\L1\L1\obj\Debug\L1.csproj.CoreCompileInputs.cache
+E:\UniStuff\IISemestras\CSharp\L1\L1\L1\bin\Debug\L1.exe.config
+E:\UniStuff\IISemestras\CSharp\L1\L1\L1\bin\Debug\L1.exe
+E:\UniStuff\IISemestras\CSharp\L1\L1\L1\bin\Debug\L1.pdb
+E:\UniStuff\IISemestras\CSharp\L1\L1\L1\obj\Debug\L1.window.resources
+E:\UniStuff\IISemestras\CSharp\L1\L1\L1\obj\Debug\L1.exe
+E:\UniStuff\IISemestras\CSharp\L1\L1\L1\obj\Debug\L1.pdb
+C:\Users\Osvaldas Žilinskas\OneDrive - Kaunas University of Technology\OPP2\L1\L1\L1\bin\Debug\L1.exe.config
+C:\Users\Osvaldas Žilinskas\OneDrive - Kaunas University of Technology\OPP2\L1\L1\L1\bin\Debug\L1.exe
+C:\Users\Osvaldas Žilinskas\OneDrive - Kaunas University of Technology\OPP2\L1\L1\L1\bin\Debug\L1.pdb
+C:\Users\Osvaldas Žilinskas\OneDrive - Kaunas University of Technology\OPP2\L1\L1\L1\obj\Debug\L1.csproj.AssemblyReference.cache
+C:\Users\Osvaldas Žilinskas\OneDrive - Kaunas University of Technology\OPP2\L1\L1\L1\obj\Debug\L1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Osvaldas Žilinskas\OneDrive - Kaunas University of Technology\OPP2\L1\L1\L1\obj\Debug\L1.window.resources
+C:\Users\Osvaldas Žilinskas\OneDrive - Kaunas University of Technology\OPP2\L1\L1\L1\obj\Debug\L1.Properties.Resources.resources
+C:\Users\Osvaldas Žilinskas\OneDrive - Kaunas University of Technology\OPP2\L1\L1\L1\obj\Debug\L1.csproj.GenerateResource.cache
+C:\Users\Osvaldas Žilinskas\OneDrive - Kaunas University of Technology\OPP2\L1\L1\L1\obj\Debug\L1.csproj.CoreCompileInputs.cache
+C:\Users\Osvaldas Žilinskas\OneDrive - Kaunas University of Technology\OPP2\L1\L1\L1\obj\Debug\L1.exe
+C:\Users\Osvaldas Žilinskas\OneDrive - Kaunas University of Technology\OPP2\L1\L1\L1\obj\Debug\L1.pdb
+C:\Users\Osvaldas\OneDrive - Kaunas University of Technology\OPP2\L1\L1\L1\bin\Debug\L1.exe.config
+C:\Users\Osvaldas\OneDrive - Kaunas University of Technology\OPP2\L1\L1\L1\bin\Debug\L1.exe
+C:\Users\Osvaldas\OneDrive - Kaunas University of Technology\OPP2\L1\L1\L1\bin\Debug\L1.pdb
+C:\Users\Osvaldas\OneDrive - Kaunas University of Technology\OPP2\L1\L1\L1\obj\Debug\L1.csproj.AssemblyReference.cache
+C:\Users\Osvaldas\OneDrive - Kaunas University of Technology\OPP2\L1\L1\L1\obj\Debug\L1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Osvaldas\OneDrive - Kaunas University of Technology\OPP2\L1\L1\L1\obj\Debug\L1.window.resources
+C:\Users\Osvaldas\OneDrive - Kaunas University of Technology\OPP2\L1\L1\L1\obj\Debug\L1.Properties.Resources.resources
+C:\Users\Osvaldas\OneDrive - Kaunas University of Technology\OPP2\L1\L1\L1\obj\Debug\L1.csproj.GenerateResource.cache
+C:\Users\Osvaldas\OneDrive - Kaunas University of Technology\OPP2\L1\L1\L1\obj\Debug\L1.csproj.CoreCompileInputs.cache
+C:\Users\Osvaldas\OneDrive - Kaunas University of Technology\OPP2\L1\L1\L1\obj\Debug\L1.exe
+C:\Users\Osvaldas\OneDrive - Kaunas University of Technology\OPP2\L1\L1\L1\obj\Debug\L1.pdb
